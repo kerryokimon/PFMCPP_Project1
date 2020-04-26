@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: woman
+//  action 1: the woman kicks
+woman.kick();
+//  action 2: the woman speaks
+woman.speaks();
+//  action 3: the woman shouts 
+woman.shouts();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:  team
+//  action 1: the team wins
+team.wins();
+//  action 2: the team loses
+team.lose();
+//  action 3: the team goes
+team.goes();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: landspeeder
+//  action 1: the landspeeder flies
+landspeeder.fly()
+//  action 2: the landspeeder stops
+landspeeder.stop();
+//  action 3: the landspeeder turns
+landspeeder.turn();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dragon
+//  action 1:  the dragon eats
+dragon.eat();
+//  action 2:  the dragon breathes
+dragon.breath();
+//  action 3:  the dragon flies
+dragon.fly();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:  light
+//  action 1: the light shines
+light.shine();
+//  action 2: the light blinks
+light.blink();
+//  action 3: the light shimmers
+light.shimmer();
+//  6) 
+//  Noun: cat 
+//  action 1:  the cat jumps
+cat.jump();
+//  action 2: the cat purrs
+cat.purr();
+//  action 3: the cat meows
+cat.meow();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:  eye
+//  action 1: the eye sees
+eye.see();
+//  action 2: the eye blinks
+eye.blink();
+//  action 3: the eye squints
+eye.squint();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: synth
+//  action 1: the synth generates sounds
+synth.generateSound();
+//  action 2: the synth outputs frequencies
+synth.outputFrequency();
+//  action 3:  the synth generates noise
+synth.generateNoise();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: musician
+//  action 1: the musician plays
+musician.play();
+//  action 2:  the musician hears
+musician.hear();
+//  action 3: the musician sings
+musician.sing();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2:  the dog sits
+dog.sit();
+//  action 3: the dog runs
+dog.runs()
 
 
 #endif
