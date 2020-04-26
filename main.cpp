@@ -77,11 +77,11 @@ team.goes();
 //  3)
 //  Noun: landspeeder
 //  action 1: the landspeeder flies
-landspeeder.fly()
+landSpeeder.fly()
 //  action 2: the landspeeder stops
-landspeeder.stop();
+landSpeeder.stop();
 //  action 3: the landspeeder turns
-landspeeder.turn();
+landSpeeder.turn();
 //  4)
 //  Noun: dragon
 //  action 1:  the dragon eats
@@ -137,7 +137,7 @@ dog.bark();
 //  action 2:  the dog sits
 dog.sit();
 //  action 3: the dog runs
-dog.runs()
+dog.runs();
 
 
 #endif
